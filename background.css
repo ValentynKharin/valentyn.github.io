@@ -1,0 +1,96 @@
+@media screen and (min-width: 1200px) {
+    body {
+        background-color: #120720;
+        margin: 0;
+        overflow-x: hidden;
+        flex: none;
+    }
+    .back_glow {
+        position: absolute;
+        left: 800px;
+        top: 0px;
+    }
+    .big_glow {
+        position: absolute;
+        top: 300px;
+        left: 750px;
+    }
+    .side_curves {
+        position: absolute;
+        left: 750px;
+        top: 270px;
+    }
+    .mini_ball {
+        position: absolute;
+        left: 1300px;
+        top: 300px;
+    }
+    .cv_ball {
+        position: absolute;
+        left: 750px;
+        top: 420px;
+    }
+    .ellipse {
+        position: absolute;
+        left: -600px;
+        top: 0px;
+    }
+    .back_glow1 {
+        position: absolute;
+        left: 800px;
+        top: 1100px;
+    }
+    .mini_ball1 {
+        position: absolute;
+        left: 0px;
+        top: 1500px;
+        z-index: 2;
+    }
+    .dot_pattern {
+        position: absolute;
+        left: 1400px;
+        top: 1700px;
+    }
+    .back_glow2 {
+        position: absolute;
+        left: -350px;
+        top: 2000px;
+    }
+    .back_glow3 {
+        position: absolute;
+        width: 70%;
+        height: 70%;
+        left: 750px;
+        top: 3100px;
+    }
+    .back_glow4 {
+        position: absolute;
+        width: 70%;
+        height: 70%;
+        left: -200px;
+        top: 3250px;
+    }
+    .dot_pattern2 {
+        position: absolute;
+        left: 1200px;
+        top: 3350px;
+    }
+    .union {
+        position: absolute;
+        left: 300px;
+        top: 3550px;
+    }
+
+}
+@media screen and (min-width: 992px) {
+    
+}
+@media screen and (min-width: 768px) {
+    
+}
+@media screen and (min-width: 576px) {
+    
+}
+@media screen and (max-width: 576px) {
+    
+}
