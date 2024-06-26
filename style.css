@@ -6,8 +6,8 @@
         max-width: 1140px;
         position: absolute;
         top: 0px;
-        left: 270px;
-        right: 270px;
+        left: auto;
+        right: auto;
     }
     .main_menu{
         width: 1140px;
