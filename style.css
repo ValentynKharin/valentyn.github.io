@@ -6,8 +6,11 @@
         max-width: 1140px;
         position: absolute;
         top: 0px;
-        left: 270px;
-        right: 270px;
+        left: 0px;
+        right: 0px;
+        margin-left: auto;
+        margin-right: auto;
+  }
     }
     .main_menu{
         width: 1140px;
